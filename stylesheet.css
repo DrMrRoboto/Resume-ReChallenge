@@ -1,0 +1,232 @@
+body {
+	background-image: url("https://cloud.githubusercontent.com/assets/11670915/7059058/1d685eae-de30-11e4-897b-51f0862fb5de.jpg");
+}
+.WSpace {
+	background: linear-gradient(white, yellow);
+	border-radius: 5px 5px;
+	border: 2px solid white;
+	height: 1700px;
+	width: 1200px;
+	margin-left: 65px;
+	margin-top: 65px;
+	margin-bottom: 65px;
+}
+#nameInfo {
+	position: fixed;
+	z-index: 0;
+	height: 250px;
+	width: 200px;
+	margin-left: 75px;
+
+}
+.ben {
+	text-shadow: 2px 2px #272724;
+	font-family: Tahoma;
+	font-style: bold;
+	font-size: 70px;
+	letter-spacing: 10px;
+	margin-top: 30px;
+	margin-left: 15px;
+	color: #666666;
+} 
+.margis {
+	text-shadow: 2px 2px #272724;
+	font-family: Times; 
+	font-size: 48px;
+	letter-spacing: 4px;
+	margin-top: -65px;
+	margin-left: 15px;
+	color: #666666;
+}
+.PInfo {
+	text-align: left;
+	margin-left: 15px;
+	font-family: Times;
+	color: #666666;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 15px;
+	margin-top: -21px;
+	letter-spacing: 1px;
+}
+.CObjectives {
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+	margin-top: 40px;
+	margin-left: 350px;
+}
+.COP {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: 15px;
+}
+.WExperience {
+	margin-left: 350px;
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+}
+a {
+	color: #1F1F14;
+}
+.Wedge {
+	margin-left: 350px;
+	color: #141414;
+	margin-top: 10px;
+	font-style: italic;
+    font-family: Tahoma;
+}
+.Wedge a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.Wedge a:hover {
+	color: #cc3330;
+}
+.Hums {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-family: Tahoma;
+}
+.Hums a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+}
+.Hums a:hover {
+	color: #cc3330;
+}
+.Video {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-family: Tahoma;
+}
+.Video a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+}
+.Video a:hover {
+	color: #cc3330;
+}
+.Content {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: -15px;
+}
+ul {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-size: 15px;
+	margin-top: -10px;
+}
+
+.Underline1 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-left: 350px;
+	margin-top: -23px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.Underline2 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-top: -23px; 
+	margin-left: 350px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.Underline3 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-top: -27px; 
+	margin-left: 350px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.Underline4 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-left: 350px;
+	margin-top: -23px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.Interests {
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+	margin-top: 0px;
+	margin-left: 350px;
+}
+.MoreVideo {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-size: 15px;
+}
+.MoreBB {
+	font-size: 15px;
+}
+#comedy {
+	margin-left: 350px;
+	margin-top: 20px;
+}
+#comedy a:hover {
+	background-color: #FF0000;
+}
+#video {
+	margin-left: 350px;
+	margin-top: 35px;
+}
+#video a:hover {
+	background-color: #FF0000;
+}
+#film {
+	margin-left: 350px;
+	margin-top: 35px;
+}
+#film a:hover {
+	background-color: #FF0000;
+}
+.InterestInfo {
+	margin-top: -100px;
+	margin-left: 230px;
+	font-family: Tahoma;
+	font-size: 20px;
+}
+.Par {
+	margin-top: -20px;
+	margin-left: 230px;
+	font-family: Tahoma;
+}
+.VideoEmbed {
+	margin-left: 350px;
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+}
+#Embed {
+	margin-left: 350px;
+	margin-top: 15px;
+}
+
+
+
+
+
